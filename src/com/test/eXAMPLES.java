@@ -16,4 +16,8 @@ public class eXAMPLES {
 
 	}
 
+	public void example() {
+
+	}
+
 }
